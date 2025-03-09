@@ -6,10 +6,10 @@ locale: en_US
 headline: This is not a headline. Lorem ipsum dolor sit amet consectetur adipisicing
 
 [byline]
-name: This is not a name
+name: Brandon Meyer
 url: https://www.latimes.com/people/nobody
 
-name: This is not a name
+name: Ted Bridis
 url: https://www.latimes.com/people/nobody
 []
 
